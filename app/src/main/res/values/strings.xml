@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="welcome_to">Welcome to Story App</string>
+    <string name="package_name">com.rakuseru.storyapp1</string>
+
+    <!--  General & Misc  -->
+    <string name="you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="select_photo">Select photo</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="cancel">Cancel</string>
+    <string name="photo">Photo</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="posted_at">Posted at:</string>
+    <string name="shared_photo">Shared photo</string>
+    <string name="login">Login</string>
+    <string name="icon_email">Icon email</string>
+    <string name="email">Email</string>
+    <string name="icon_lock">Icon lock</string>
+    <string name="password">Password</string>
+    <string name="or_sign_up">or Sign up</string>
+    <string name="register">Register</string>
+    <string name="person">Person</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+    <string name="fab">Floating button</string>
+    <string name="this_splash">it\'s splash screen</string>
+    <string name="no_data_icon">No data icon</string>
+    <string name="no_data">No Data</string>
+    <string name="about">About</string>
+    <string name="about_detail">2022 by Raxel A.K</string>
+    <string name="detail_name">Detail Name</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="dummy_date">01-01-2022</string>
+    <string name="dummy_user">User</string>
+    <string name="choose_pic">Choose file to upload</string>
+    <string name="validation_add_file">Please Add File to Upload</string>
+    <string name="validation_add_desc">Please input file description</string>
+
+    <!--  Item Story  -->
+    <string name="item_name">Story Name</string>
+    <string name="item_photo">Story Photo</string>
+
+    <!--  Form Validation  -->
+    <string name="input_email">Please input your email here</string>
+    <string name="input_pass">Please input your password here</string>
+    <string name="invalid_email">Email is invalid</string>
+    <string name="invalid_password">Password is invalid</string>
+    <string name="email_required">Email is required</string>
+    <string name="name_required">Name is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="cpass_required">Confirm password is required</string>
+    <string name="pass_length">Password must be 6 characters long</string>
+    <string name="pass_not_match">Password not match</string>
+
+
+    <!--  Session  -->
+    <string name="timeout">Timeout! please try again later</string>
+    <string name="email_taken">Email is already taken</string>
+    <string name="unauthorized">Email or password might be wrong</string>
+    <string name="user_created">User created</string>
+    <string name="success_login">Login successfully. Welcome </string>
+    <string name="error_message">Error message :</string>
+    <string name="message">Message :</string>
+    <string name="success_load">Load successfully. Message:</string>
+    <string name="error_load">Failed to load. Message:</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="see_password">See password</string>
+    <string name="home">Home</string>
+    <string name="location">Location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="share_location">Share Location</string>
+    <string name="is_location_enable">Please Enable Location</string>
+    <string name="location_denied">Location permission denied</string>
+    <string name="location_denied_action">Change location setting</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="register_failed">Failed to register user</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+
+</resources>
